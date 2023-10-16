@@ -1,3 +1,5 @@
+![Profile Banner](https://github.com/joomun/joomun/assets/128174208/241180b1-a88e-4579-9c5e-50cae00872d2)
+
 Welcome to My GitHub Profile 👋👋!
 Hello there! 👋 I'm Noor Joomun. I'm excited to have you here and share a bit about myself and my work.
 
@@ -9,4 +11,4 @@ My journey has been exciting and I am always eager to explore innovative solutio
 Linkedin : https://www.linkedin.com/in/joomun-noorani-muddathir-846636228
 Email: Joomunmuddathir@gmail.com
 
-![Profile Banner](https://github.com/joomun/joomun/assets/128174208/dec64333-2277-443d-8c11-3f1b8c023e2b)
+
