@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/joomun/joomun/assets/128174208/2b88e669-0852-4a9e-b20a-8485e6a88901)
+[![An image of @joomun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joomun)](https://holopin.io/@joomun)
 
 Welcome to My GitHub Profile 👋👋!
 Hello there! 👋 I'm Noor Joomun. I'm excited to have you here and share a bit about myself and my work.
